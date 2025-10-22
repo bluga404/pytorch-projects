@@ -2,4 +2,4 @@
 My long journey from https://www.learnpytorch.io/
 
 ## pytorch workflow
-<img src="01_a_pytorch_workflow.png"></img>
+<img src="01_pytorch_workflow.png"></img>
