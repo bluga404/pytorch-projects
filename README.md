@@ -1,2 +1,5 @@
-# pytorch-projects
+# Bluga 404 Pytorch Projects
 My journey from https://www.learnpytorch.io/
+
+## pytorch workflow
+<img src="01_a_pytorch_workflow.png"></img>
