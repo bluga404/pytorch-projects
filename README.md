@@ -3,3 +3,6 @@ My long journey from https://www.learnpytorch.io/
 
 ## pytorch workflow
 <img src="01_pytorch_workflow.png"></img>
+
+## PyTorch training loop steps
+<img src="train-loop.png"></img>
